@@ -63,7 +63,12 @@ const PopularCategory = () => {
                         category.map((data, index) =>
                             <div key={index} className='xxl:w-[280px] mx-auto relative'>
 
-                                <img src={data.image} alt={data.category} className='object-contain w-full' />
+                                <img
+                                    src={data.image}
+                                    alt={data.category}
+                                    className='object-contain w-full'
+                                    loading='lazy'
+                                />
                                 <p className='text-2xl vistara-medium text-white uppercase absolute bottom-10 left-1/2 -translate-x-1/2 w-fit tracking-wider xl:text-nowrap'>{data.category}</p>
 
                             </div>

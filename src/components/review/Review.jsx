@@ -4,11 +4,21 @@ const Review = () => {
     return (
         <div className="mb-[90px] relative px-12 xl:px-[90px]">
             <div className="xl:p-11 p-8 border border-[var(--primary)] flex gap-8 xxl:gap-14 justify-between max-w-[1240px] mx-auto items-center">
-            
+
                 {/* user image part  */}
                 <div className="flex items-center gap-5 xl:gap-10 xl:w-[40%] w-[45%]">
-                    <img src="/review/image 9.png" alt="review img" className="w-1/2 object-cover h-full" />
-                    <img src="/review/image 11.png" alt="review user" className="w-1/2 object-cover h-full" />
+                    <img
+                        src="/review/image 9.png"
+                        alt="review img"
+                        className="w-1/2 object-cover h-full"
+                        loading="lazy"
+                    />
+                    <img
+                        src="/review/image 11.png"
+                        alt="review user"
+                        className="w-1/2 object-cover h-full"
+                        loading="lazy"
+                    />
                 </div>
                 <div className="text-center w-[50%] xl:w-[55%]">
                     <p className="text-[#1E1E1E99] text-2xl vistara-light">Customer Review </p>

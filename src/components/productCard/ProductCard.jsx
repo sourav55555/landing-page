@@ -4,7 +4,7 @@ const ProductCard = ({data}) => {
     return (
         <div className="w-[280px] mx-auto vistara-light">
         
-            <img src={data.image} alt={data.name} />
+            <img src={data.image} alt={data.name} loading="lazy" />
             <p className="mt-5 text-[#1E1E1EB2] text-lg leading-6">{data.name}</p>
 
             <div className="mt-3 flex justify-between items-center">
