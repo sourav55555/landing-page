@@ -5,22 +5,22 @@ const featuredProd = [
     {
         name: "Multi Color Net Embroidered bowls Set",
         price: "27,200",
-        image: "/public/featured/bowlset.png"
+        image: "/featured/bowlset.png"
     },
     {
         name: "Green Quilted Wooden launch",
         price: "17,500",
-        image: "/public/featured/woodenlaunch.png"
+        image: "/featured/woodenlaunch.png"
     },
     {
         name: "Yellow Silk Blend Floral Embroidered Products",
         price: "12,500",
-        image: "/public/featured/blandFloral.png"
+        image: "/featured/blandFloral.png"
     },
     {
         name: "Wine Pure Banaras wooden phone case set",
         price: "10,500",
-        image: "/public/featured/phonecase.png"
+        image: "/featured/phonecase.png"
     },
 ]
 
@@ -39,7 +39,7 @@ const Featured = () => {
                 </div>
                 <div className="flex items-center gap-3 vistara-light text-xl cursor-pointer">
                     <p>View All</p>
-                    <img src="/public/rightarr.png" className="w-5" alt="" />
+                    <img src="/rightarr.png" className="w-5" alt="" />
                 </div>
             </div>
 
@@ -54,7 +54,7 @@ const Featured = () => {
             <div className="w-[455px] h-[388px] ellipse-12 absolute -top-6 -left-[250px]"></div>
             <div className="w-[788px] h-[602px] ellipse-9 absolute top-28 -right-[394px]"></div>
             <div className="w-[450px] h-[440px] absolute -bottom-7 -right-[215px] z-30">
-                <img src="/public/featured/featuredvector.png" alt="" />
+                <img src="/featured/featuredvector.png" alt="" />
             </div>
             
         </div>

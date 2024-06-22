@@ -7,8 +7,8 @@ const Review = () => {
             
                 {/* user image part  */}
                 <div className="flex items-center gap-5 xl:gap-10 xl:w-[40%] w-[45%]">
-                    <img src="/public/review/image 9.png" alt="review img" className="w-1/2 object-cover h-full" />
-                    <img src="/public/review/image 11.png" alt="review user" className="w-1/2 object-cover h-full" />
+                    <img src="/review/image 9.png" alt="review img" className="w-1/2 object-cover h-full" />
+                    <img src="/review/image 11.png" alt="review user" className="w-1/2 object-cover h-full" />
                 </div>
                 <div className="text-center w-[50%] xl:w-[55%]">
                     <p className="text-[#1E1E1E99] text-2xl vistara-light">Customer Review </p>
@@ -25,12 +25,12 @@ const Review = () => {
             <div className="ellipse-20 h-[388px] w-[455px] absolute -bottom-28 -left-[225px]">
             </div>
             <div className="w-[311px] h-[400px] absolute -bottom-24 -left-[90px]">
-                <img src="/public/review/review.png" className="w-full h-full" />
+                <img src="/review/review.png" className="w-full h-full" />
             </div>
 
             <div className="w-[280px] h-[228px] ellipse-21 absolute -top-10 -right-[115px]"></div>
             <div className="w-[220px] h-[262px] absolute -top-20 -right-[50px]">
-                <img src="/public/review/reviewcurve.png" alt="" className="w-full h-full" />
+                <img src="/review/reviewcurve.png" alt="" className="w-full h-full" />
             </div>
         </div>
     );

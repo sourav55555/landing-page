@@ -6,7 +6,7 @@ const Footer = () => {
 
             <div className="flex justify-between border-b border-[#1E1E1E66] pb-10">
                 <div className="w-[250px] -mt-8">
-                    <img src="/public/logo/Frame 13.png" alt="" />
+                    <img src="/logo/Frame 13.png" alt="" />
                     <p className='text-[#1E1E1EB2]'>
                         We are a products  brand that offers the best of contemporary, ethnic Indian fashion, and fusion-wear styles.
                     </p>

@@ -6,49 +6,49 @@
 /* vistara sans font  */
 @font-face {
     font-family: "Vistara sans";
-    src: url("/public/fonts/OTF/Vistarasans-Bold.otf") format('truetype'),;
+    src: url("/fonts/OTF/Vistarasans-Bold.otf") format('truetype'),;
     font-weight: bold;
     font-style: normal;
 }
 @font-face {
     font-family: "Vistara sans";
-    src: url("/public/fonts/OTF/Vistarasans-ExtraBold.otg") format('truetype'),;
+    src: url("/fonts/OTF/Vistarasans-ExtraBold.otg") format('truetype'),;
     font-weight: 800;
     font-style: normal;
 }
 @font-face {
     font-family: "Vistara sans";
-    src: url("/public/fonts/OTF/Vistarasans-ExtraLight.otf") format('truetype'),;
+    src: url("/fonts/OTF/Vistarasans-ExtraLight.otf") format('truetype'),;
     font-weight: 200;
     font-style: normal;
 }
 @font-face {
     font-family: "Vistara sans";
-    src: url("/public/fonts/OTF/Vistarasans-Light.otf") format('truetype'),;
+    src: url("/fonts/OTF/Vistarasans-Light.otf") format('truetype'),;
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
     font-family: "Vistara sans";
-    src: url("/public/fonts/OTF/Vistarasans-Medium.otf") format('truetype'),;
+    src: url("/fonts/OTF/Vistarasans-Medium.otf") format('truetype'),;
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
     font-family: "Vistara sans";
-    src: url("/public/fonts/OTF/Vistarasans-Regular.otf") format('truetype'),;
+    src: url("/fonts/OTF/Vistarasans-Regular.otf") format('truetype'),;
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: "Vistara sans";
-    src: url("/public/fonts/OTF/Vistarasans-SemiBold.otf") format('truetype'),;
+    src: url("/fonts/OTF/Vistarasans-SemiBold.otf") format('truetype'),;
     font-weight: 600;
     font-style: normal;
 }
 @font-face {
     font-family: "Vistara sans";
-    src: url("/public/fonts/OTF/Vistarasans-Thin.otf"),;
+    src: url("/fonts/OTF/Vistarasans-Thin.otf"),;
     font-weight: 100;
     font-style: normal;
 }
@@ -56,7 +56,7 @@
 /* luxiachy font  */
 @font-face {
     font-family: "Luxiachy";
-    src: url("/public/fonts/luxiachy.ttf") format('truetype');
+    src: url("/fonts/luxiachy.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 

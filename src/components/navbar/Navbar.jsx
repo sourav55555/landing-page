@@ -8,7 +8,7 @@ const Navbar = () => {
             {/* logo  */}
             <div>
                 <img
-                    src="/public/logo/Frame 13.png"
+                    src="/logo/Frame 13.png"
                     alt="gnapika"
                     className='w-[260px] h-[110px]'
                 />
@@ -38,9 +38,9 @@ const Navbar = () => {
 
             {/* icons  */}
             <div className="flex items-center gap-5 xxl:gap-[30px] cursor-pointer">
-                <img src="/public/logo/heart.png" alt="heart" />
-                <img src="/public/logo/user.png" alt="user" />
-                <img src="/public/logo/g1265.png" alt="cart" />
+                <img src="/logo/heart.png" alt="heart" />
+                <img src="/logo/user.png" alt="user" />
+                <img src="/logo/g1265.png" alt="cart" />
             </div>
         </nav>
     );

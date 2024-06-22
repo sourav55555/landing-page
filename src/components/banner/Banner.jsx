@@ -49,11 +49,11 @@ const Banner = () => {
 
                 {/* banner image  */}
                 <div className="xxl:min-w-[590px] w-1/2">
-                    <img src="/public/banner/Group 11.png" className="w-full" alt="banner image" />
+                    <img src="/banner/Group 11.png" className="w-full" alt="banner image" />
                 </div>
             </div>
             <div className="mt-4">
-                <img src="/public/banner/Vector (1).png" className="w-full" alt="curve" />
+                <img src="/banner/Vector (1).png" className="w-full" alt="curve" />
             </div>
 
             {/* ellipses */}

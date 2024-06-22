@@ -5,22 +5,22 @@ const popularProd = [
     {
         name: "Multi Color Net Embroidered doors Set",
         price: "7,500",
-        image: "/public/popular/Embroidered.png"
+        image: "/popular/Embroidered.png"
     },
     {
         name: "Embellished Indian wooden Mirror bowls",
         price: "25,700",
-        image: "/public/popular/Mirror bowls.png"
+        image: "/popular/Mirror bowls.png"
     },
     {
         name: "Green wooden Embroidered holes Set",
         price: "22,800",
-        image: "/public/popular/holesset.png"
+        image: "/popular/holesset.png"
     },
     {
         name: "Pink Silk Floral Embroidered Table Set",
         price: "11,500",
-        image: "/public/popular/tableset.png"
+        image: "/popular/tableset.png"
     },
 ]
 
@@ -35,7 +35,7 @@ const PopularProduct = () => {
                 </div>
                 <div className="flex items-center gap-3 vistara-light text-xl cursor-pointer">
                     <p>View All</p>
-                    <img src="/public/rightarr.png" className="w-5" alt="" />
+                    <img src="/rightarr.png" className="w-5" alt="" />
                 </div>
             </div>
 

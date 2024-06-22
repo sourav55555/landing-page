@@ -3,35 +3,35 @@ import "./popularCategory.css";
 
 const category = [
     {
-        image: "/public/category/simple.png",
+        image: "/category/simple.png",
         category: "simple"
     },
     {
-        image: "/public/category/keychain.png",
+        image: "/category/keychain.png",
         category: "keychains"
     },
     {
-        image: "/public/category/antiques.png",
+        image: "/category/antiques.png",
         category: "antiques"
     },
     {
-        image: "/public/category/woodDisplay.png",
+        image: "/category/woodDisplay.png",
         category: "Wood Display"
     },
     {
-        image: "/public/category/hanging.png",
+        image: "/category/hanging.png",
         category: "hanging"
     },
     {
-        image: "/public/category/photoframe.png",
+        image: "/category/photoframe.png",
         category: "Photo frames"
     },
     {
-        image: "/public/category/indo.png",
+        image: "/category/indo.png",
         category: "indo-western"
     },
     {
-        image: "/public/category/sets.png",
+        image: "/category/sets.png",
         category: "sets"
     }
 
@@ -78,7 +78,7 @@ const PopularCategory = () => {
 
             <div className='h-[450px] absolute -bottom-14 left-0 z-40'>
                 <img
-                    src="/public/category/categoryvector.png"
+                    src="/category/categoryvector.png"
                     className='h-full'
                     alt=""
                 />

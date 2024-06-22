@@ -31,10 +31,10 @@ const Subscribe = () => {
             <div className='w-[40%]'>
                 <p className='luxiachy text-4xl'>Follow us on Instagram</p>
                 <div className='flex items-center gap-2 mt-4'>
-                    <img src="/public/subscribe/Rectangle 12.png" className='w-1/4 object-cover h-full' alt="insta" />
-                    <img src="/public/subscribe/Rectangle 13.png" className='w-1/4 object-cover h-full' alt="insta" />
-                    <img src="/public/subscribe/Rectangle 14.png" className='w-1/4 object-cover h-full' alt="insta" />
-                    <img src="/public/subscribe/Rectangle 15.png" className='w-1/4 object-cover h-full' alt="insta" />
+                    <img src="/subscribe/Rectangle 12.png" className='w-1/4 object-cover h-full' alt="insta" />
+                    <img src="/subscribe/Rectangle 13.png" className='w-1/4 object-cover h-full' alt="insta" />
+                    <img src="/subscribe/Rectangle 14.png" className='w-1/4 object-cover h-full' alt="insta" />
+                    <img src="/subscribe/Rectangle 15.png" className='w-1/4 object-cover h-full' alt="insta" />
                 </div>
             </div>
         </div>
