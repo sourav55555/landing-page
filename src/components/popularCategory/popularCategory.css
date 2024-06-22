@@ -1,0 +1,7 @@
+.ellipse-11 {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgba(136, 36, 55, 0.2) 0%,
+    rgba(136, 36, 55, 0) 100%
+  );
+}

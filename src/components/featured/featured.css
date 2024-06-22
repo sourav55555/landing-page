@@ -1,0 +1,14 @@
+.ellipse-12 {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgba(136, 36, 55, 0.16) 0%,
+    rgba(136, 36, 55, 0) 100%
+  );
+}
+.ellipse-9 {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgba(136, 36, 55, 0.16) 0%,
+    rgba(136, 36, 55, 0) 100%
+  );
+}

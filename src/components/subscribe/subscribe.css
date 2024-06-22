@@ -1,0 +1,10 @@
+.subscribe-border {
+  border: 1px solid;
+  border-image-source: linear-gradient(
+    270deg,
+    rgba(233, 171, 38, 0) 0%,
+    #e9ab26 50%,
+    rgba(233, 171, 38, 0) 100%
+  );
+  border-image-slice: 1;
+}
